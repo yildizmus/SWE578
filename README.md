@@ -1,5 +1,5 @@
 # SWE 573
-This repository was created for the SWE 578 course’s project. The project consists of 4 parts.
+This repository was created for the SWE 573 course’s project. The project consists of 4 parts.
 
 ## 1) Software Requirements
 In this section, the requirements of the application will be written according to Intel EARS standards.
