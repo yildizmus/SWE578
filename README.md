@@ -1,4 +1,4 @@
-# SWE 578
+# SWE 573
 This repository was created for the SWE 578 course’s project. The project consists of 4 parts.
 
 ## 1) Software Requirements
